@@ -14,7 +14,6 @@ public class RealImage implements MyImage {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
     }
-
     public void display() {
         frame.setVisible(true);
     }
